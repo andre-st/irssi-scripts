@@ -1,0 +1,39 @@
+Repository Name:
+
+irssi-scripts
+
+
+Website:
+
+-
+
+
+Description:
+
+Scripts for the IRC textmode client Irssi, such as a channel recommender on
+the basis of aggregated whois-data of other users
+
+
+Topics:
+
+irssi
+irssi-scripts
+irssi-script
+extension
+extensions
+plugin
+plugins
+addon
+addons
+perl-script
+recommendation
+recommender
+osd
+on-screen
+on-screen-display
+x11
+overlay
+overlays
+collaborative-filtering
+statistics
+
