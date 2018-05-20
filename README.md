@@ -25,28 +25,27 @@ Difficult to oversee 39 thousand channels on IRCnet, 63 thousand on QuakeNet, 20
 
 Installation on \*nix or Windows:
 1. [Irssi](https://irssi.org/) comes pre-installed on Linux
-2. copy [jalso.pl](jalso.pl) to `~/.irssi/scripts/autorun`  or `%USERPROFILE%\.irssi\scripts\autorun` (Windows)
-3. type `/ jalso` in the channel
+2. copy [jalso.pl](jalso.pl) to `~/.irssi/scripts/autorun/`  or `%USERPROFILE%\.irssi\scripts\autorun\` (Windows)
+3. type `/jalso` in the channel
 4. unfortunately, irc.freenode.net is no longer supported, see comments in the source code
 
 &nbsp;
 
 
-## Script osd.pl – Beiläufiges Mitlesen von Internet-Relay-Chats
+## Script osd.pl – Follow chats without visible Irssi window
 
-Wer arbeitet und nebenher chattet prüft regelmäßig, ob neuer Text im Chat-Fenster steht. Dabei unterbricht er auch seine Arbeit, wenn nichts darin steht, weil er es nur hinterher feststellt. Wird ihm aber mitgeteilt, wann es sich lohnt, dann kann er die Arbeit im Blick behalten:
+Anyone who works and chats in parallel, regularly checks for new text in the chat window. He also interrupts his work, if there's nothing, because he only knows it afterwards. But if he is told when it is worthwhile, then he can keep an eye on the work:
 
-Neue Antworten erscheinen kurz auf der Arbeitsoberfläche:
+New answers appear directly on the desktop and disappear again:
 ![Screenshot](osd-20110213.png?raw=true "Screenshot")
 
-Weil Einblendungen aber auch ablenken nützen sie eher bei ruhigeren Chats – im IRC wird viel geidlet. Einzelne Kanäle lassen sich mit dem `/osdmute`-Kommando in Irssi stummschalten. Zudem erleichtert die automatische Färbung, wichtige und weniger wichtige Kanäle auseinanderzuhalten, ohne immer lesen zu müssen. Einblendungen erscheinen auch nur, wenn Irssi unsichtbar ist.
+Since text overlays distract too, they are more useful in quieter chats - IRC users idle most of the time, though. Individual channels can be muted with the `/ osdmute` command in Irssi. In addition, automatic coloring makes it easier to distinguish between important and less important channels without having to read the answers. Overlays only appear when Irssi is invisible.
 
-Installation unter GNU/Linux:
-1. [Irssi](https://irssi.org/) ist bei Linux oft vorinstalliert
-2. libXosd installieren (Paket `system/xosd` bei Slackware)
+Installation on GNU/Linux:
+1. [Irssi](https://irssi.org/) comes pre-installed on Linux
+2. isntall libXosd (`system/xosd` package on Slackware)
 3. `$ sudo perl -MCPAN -e 'install X::Osd'`
-4. [osd.pl](osd.pl) nach `~/.irssi/scripts/` kopieren
-5. in Irssi oder im `.irssi/startup`-File das Kommando `/load osd.pl` tippen
+4. copy [osd.pl](osd.pl) to `~/.irssi/scripts/autorun/`
 
 &nbsp;
 
