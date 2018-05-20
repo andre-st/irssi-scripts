@@ -43,7 +43,7 @@ Since text overlays distract too, they are more useful in quieter chats — IRC 
 
 Installation on GNU/Linux:
 1. [Irssi](https://irssi.org/) comes pre-installed on Linux
-2. isntall libXosd (`system/xosd` package on Slackware)
+2. install libXosd (`system/xosd` package on Slackware)
 3. `$ sudo perl -MCPAN -e 'install X::Osd'`
 4. copy [osd.pl](osd.pl) to `~/.irssi/scripts/autorun/`
 
