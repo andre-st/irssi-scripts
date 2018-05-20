@@ -10,25 +10,24 @@
 &nbsp;
 
 
-## Script jalso.pl – Kollaboratives Filtern von IRC-Kanälen
+## Script jalso.pl – Collaborative filtering of IRC channels
 
 ![Screenshot](jalso-20101127.png?raw=true "Screenshot")
 
-Schwer überschaubar: 39 Tausend Kanäle im IRCnet, 63 Tausend im QuakeNet, 20 Tausend im EFnet
-- Kanalsuche bisher nur mit `list` oder Alis
-- manchmal weiß man nicht, was man haben kann - danach sucht man nicht
-- ähnliche Kanäle mglw. besser besucht
-- andere Kanäle mglw. spezifischer oder allgemeiner (#javascript <-> #webdesign)
-- hilfreiches Verhalten/Wissen anderer Benutzer: sie besuchen inhaltlich _zusammenhängende_ Kanäle
-  - Zusammenhang z.B. fachlich, geografisch, organisatorisch, weltanschaulich
-  - Heuristik: Inhaltliche Nähe korreliert positiv mit der Mächtigkeit der Teilnehmer-Schnittmenge
+Difficult to oversee 39 thousand channels on IRCnet, 63 thousand on QuakeNet, 20 thousand on EFnet
+- channel search so far only with `list` or ALIS (Advanced List Service) or [web-search](http://irc.netsplit.de/channels/) (~500 networks)
+- sometimes you don't know what you can get - so you do not look for it
+- similar channels may be more visited
+- other channels may be more specific or general (#javascript <-> #webdesign)
+- helpful behavior/knowledge of other users: they visit related channels
+  - the relation is, e.g., professional, geographical, organizational, ideological
+  - Heuristic: relatedness correlates positively with the cardinality of the intersection of their participants
 
-Installation unter *nix oder Windows:
-1. [Irssi](https://irssi.org/) ist bei Linux oft vorinstalliert
-2. [jalso.pl](jalso.pl) nach `~/.irssi/scripts/`  bzw. bei Windows n. `%USERPROFILE%\.irssi\scripts` kopieren
-3. in Irssi oder im `.irssi/startup`-File das Kommando `/load jalso.pl` tippen
-4. im Kanal schließlich `/jalso` eingeben
-5. irc.freenode.net wird leider nicht mehr unterstützt, s. Doku im Quelltext
+Installation on \*nix or Windows:
+1. [Irssi](https://irssi.org/) comes pre-installed on Linux
+2. copy [jalso.pl](jalso.pl) to `~/.irssi/scripts/autorun`  or `%USERPROFILE%\.irssi\scripts\autorun` (Windows)
+3. type `/ jalso` in the channel
+4. unfortunately, irc.freenode.net is no longer supported, see comments in the source code
 
 &nbsp;
 
