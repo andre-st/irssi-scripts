@@ -24,6 +24,7 @@
 #	- long texts (> 4x60)
 #	- special color/effect if user is highlighted
 #	- direct calls to libxosd's `osd_cat` executable or `aosd_cat` bc less deps? 
+#	- change settings with /SET
 #	
 # REFERENCES:
 #	- https://github.com/shabble/irssi-docs/wiki
