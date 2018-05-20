@@ -34,12 +34,12 @@ Installation on \*nix or Windows:
 
 ## Script osd.pl – Follow chats without visible Irssi window
 
-Anyone who works and chats in parallel, regularly checks for new text in the chat window. He also interrupts his work, if there's nothing, because he only knows it afterwards. But if he is told when it is worthwhile, then he can keep an eye on the work:
+Anyone who works and chats in parallel, regularly checks for new text in the chat window. He also interrupts his work, if there's no text, because he only knows it afterwards. But if he is told when it is worthwhile, then he can keep an eye on the work:
 
 New answers appear directly on the desktop and disappear again:
 ![Screenshot](osd-20110213.png?raw=true "Screenshot")
 
-Since text overlays distract too, they are more useful in quieter chats - IRC users idle most of the time, though. Individual channels can be muted with the `/ osdmute` command in Irssi. In addition, automatic coloring makes it easier to distinguish between important and less important channels without having to read the answers. Overlays only appear when Irssi is invisible.
+Since text overlays distract too, they are more useful in quieter chats — IRC users idle most of the time, though. Individual channels can be muted with the `/osdmute` command in Irssi. In addition, automatic coloring makes it easier to distinguish between important and less important channels without having to read the answers. Overlays only appear when Irssi is invisible.
 
 Installation on GNU/Linux:
 1. [Irssi](https://irssi.org/) comes pre-installed on Linux
