@@ -56,9 +56,3 @@ Installation on GNU/Linux:
 ## Feedback
 
 Use [GitHub](https://github.com/andre-st/irssi-scripts/issues) or see [AUTHORS.md](AUTHORS.md) file
-
-
-## License
-Creative Commons BY-SA
-
-
