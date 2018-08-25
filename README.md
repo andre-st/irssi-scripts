@@ -13,7 +13,7 @@
 &nbsp;
 
 
-## Script jalso.pl – Collaborative filtering of IRC channels
+## Script 1: jalso.pl – Collaborative filtering of IRC channels
 
 ![Screenshot](jalso-20101127.png?raw=true "Screenshot")
 
@@ -35,7 +35,7 @@ Installation on \*nix or Windows:
 &nbsp;
 
 
-## Script osd.pl – Follow chats without visible Irssi window
+## Script 2: osd.pl – Follow chats without visible Irssi window
 
 Anyone who works and chats in parallel, regularly checks for new text in the chat window. He also interrupts his work, if there's no text, because he only knows it afterwards. But if he is told when it is worthwhile, then he can keep an eye on the work:
 
