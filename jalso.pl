@@ -87,12 +87,12 @@ use POSIX;     # ceil
 use Irssi;
 use List::Util qw(max);
 
-our $VERSION = '2018-04-08';
+our $VERSION = '2018-09-02';
 our %IRSSI = 
 (
 	authors     => 'http://datakadabra.wordpress.com',
 	contact     => 'datakadabra@gmail.com',
-	url         => 'https://github.com/andre-st/irssi-plugins',
+	url         => 'https://github.com/andre-st/irssi-scripts',
 	name        => 'jalso',
 	description => 'List channels visited by the users from the active channel',
 	created     => '2009-12-10',
