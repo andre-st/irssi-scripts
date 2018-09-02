@@ -39,12 +39,12 @@ use Irssi;
 use Irssi::TextUI;  # statusbar_item_register
 
 
-our $VERSION = '2018-04-05';
+our $VERSION = '2018-09-02';
 our %IRSSI =
 (
 	authors     => 'datakadabra.wordpress.com',
 	contact     => 'datakadabra@gmail.com',
-	url         => 'https://github.com/andre-st/irssi-plugins',
+	url         => 'https://github.com/andre-st/irssi-scripts',
 	name        => 'osd',
 	description => 'Display chat lines one by one at the bottom of the X11 desktop',
 	created     => '2011-02-05',
