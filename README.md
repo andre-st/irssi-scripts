@@ -55,4 +55,6 @@ Installation on GNU/Linux:
 
 ## Feedback
 
-Use [GitHub](https://github.com/andre-st/irssi-scripts/issues) or see [AUTHORS.md](AUTHORS.md) file
+If you like this project, give it a star on GitHub.
+Report bugs or suggestions [via GitHub](https://github.com/andre-st/irssi-scripts/issues) 
+or see the [AUTHORS.md](AUTHORS.md) file.
