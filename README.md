@@ -53,6 +53,11 @@ Installation on GNU/Linux:
 &nbsp;
 
 
+## Future ideas:
+
+- show the local time of day of each user in a conversation or for all /names with average time of day of the chatroom (whois IP addr + Maxmind Geo::IP database or webservice)
+
+
 ## Feedback
 
 If you like this project, give it a star on GitHub.
