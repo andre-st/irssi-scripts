@@ -1,6 +1,6 @@
 # André's Irssi Scripts
 
-![Maintenance](https://img.shields.io/maintenance/yes/2018.svg)
+![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
 
 
 [Irssi](https://irssi.org/) is a GPL licensed, proven Internet Relay Chat (IRC) textmode client with support for Perl scripting.
