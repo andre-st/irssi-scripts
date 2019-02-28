@@ -18,7 +18,7 @@
 ![Screenshot](jalso-20101127.png?raw=true "Screenshot")
 
 Difficult to oversee 39 thousand channels on IRCnet, 63 thousand on QuakeNet, 20 thousand on EFnet
-- channel search so far only with `list` or ALIS (Advanced List Service) or [web-search](http://irc.netsplit.de/channels/) (~500 networks)
+- channel search usually limited to `list` or ALIS (Advanced List Service) or [web-search](http://irc.netsplit.de/channels/) (~500 networks)
 - sometimes you don't know what you can get — so you don't look for it
 - similar channels may be more visited — names?
 - other channels may be more specific or general (#javascript <-> #webdesign)
