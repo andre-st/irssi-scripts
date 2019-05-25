@@ -1,4 +1,4 @@
-# André's Irssi Scripts
+# Andre's Irssi Scripts
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg)
 
