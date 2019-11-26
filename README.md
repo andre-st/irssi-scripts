@@ -21,8 +21,8 @@ Difficult to oversee 39 thousand channels on IRCnet, 63 thousand on QuakeNet, 20
 - channel search usually limited to `list` or ALIS (Advanced List Service) or [web-search](http://irc.netsplit.de/channels/) (~500 networks)
 - sometimes you don't know what you can get — so you don't look for it
 - similar channels may be more visited — names?
-- other channels may be more specific or general (#javascript <-> #webdesign)
-- helpful behavior/knowledge of other users: they visit related channels
+- more specific or more general channels may be better (#javascript <-> #webdesign)
+- helpful behavior / knowledge of other users: they visit related channels
   - the relation is, e.g., professional, geographical, organizational, ideological
   - Heuristic: relatedness correlates positively with the cardinality of the intersection of their participants
 
